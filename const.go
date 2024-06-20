@@ -190,4 +190,5 @@ var bankMap = map[string]string{
 	"WJRCB":     "吴江农商银行",
 	"CBBQS":     "城市商业银行资金清算中心",
 	"HBRCU":     "河北省农村信用社",
+	"SXRCU":     "山西省农村信用社联合社",
 }
